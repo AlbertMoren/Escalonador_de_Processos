@@ -1,9 +1,7 @@
 # Binarios compilados
 cliente
-fork1
-fork2
-teste_exec
 teste_wait
+primeiroEscalonador
 
 # Arquivos gerados em tempo de execucao
 demanda.txt
