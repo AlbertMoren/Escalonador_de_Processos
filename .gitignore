@@ -1,7 +1,9 @@
 # Binarios compilados
 cliente
 teste_wait
-primeiroEscalonador
+escalonador_v2
+atendimento
+analista
 
 # Arquivos gerados em tempo de execucao
 demanda.txt
